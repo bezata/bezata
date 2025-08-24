@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Blockchain Developer | Full Stack Engineer<br><br>🔗 Expertise in EVM ERC-4337 Smart Wallets, DApps, and Rust on Solana.<br>💻 Skilled in backend and frontend development.<br>🛠️ Building efficient solutions across decentralized and traditional platforms.<br>🌍 Passionate about leveraging technology for social impact and sustainability.
+🚀 Blockchain Developer | Full Stack Engineer<br><br>🔗 Expertise in EVM Smart Wallets, DApps, and Rust on Solana.<br>💻 Skilled in backend and frontend development.<br>🛠️ Building efficient solutions across decentralized and traditional platforms.<br>🌍 Passionate about leveraging technology for social impact and sustainability.
 
 
 ## 🌐 Socials:
